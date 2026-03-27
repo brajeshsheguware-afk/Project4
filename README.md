@@ -16,7 +16,9 @@ To assign grades based on performance criteria
 To identify top-performing and weak students
 To analyze performance based on department, gender, and year
 To visualize data using graphs for better understanding
-🛠️ 3. Project Format
+  
+  
+3. Project Format
 3.1 Data Collection / Generation
 Synthetic data is generated using Faker and random functions
 Includes student details like name, department, marks, attendance
