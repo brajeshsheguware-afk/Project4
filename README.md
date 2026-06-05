@@ -4,7 +4,7 @@ Problem Statement
 
 Educational institutions collect large amounts of student data, making manual analysis difficult. This project develops a simple analytics system to evaluate student performance and identify academic trends.
 <hr>
-## Dataset
+Dataset
 
 A synthetic dataset of 250 students was generated using Python.
 
