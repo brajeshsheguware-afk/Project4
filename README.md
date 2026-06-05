@@ -1,4 +1,4 @@
-                               # Student Performance Analysis System (Synthetic Data)
+                               ## Student Performance Analysis System (Synthetic Data)
 
 ## Problem Statement
 
