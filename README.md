@@ -41,6 +41,9 @@ A synthetic dataset of 250 students was generated using Python.
 <hr>
 
    <img width="672" height="458" alt="image" src="https://github.com/user-attachments/assets/b25afb26-880d-44d5-b39a-7fe963db5020" />
+<hr>
+<img width="495" height="459" alt="image" src="https://github.com/user-attachments/assets/d45404cc-6ae3-4eab-9c5d-c5b37249fc6d" />
+<hr>
 
 
 ## Key Insights
