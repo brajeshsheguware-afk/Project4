@@ -38,7 +38,7 @@ A synthetic dataset of 250 students was generated using Python.
 3. **Feature Engineering** – Calculated Total, Average, and Grades.
 4. **Analysis** – Identified top performers and performance trends.
 5. **Visualization** – Used bar charts, pie charts, histograms, and scatter plots.
-
+<hr>
 
    <img width="672" height="458" alt="image" src="https://github.com/user-attachments/assets/b25afb26-880d-44d5-b39a-7fe963db5020" />
 
