@@ -3,7 +3,7 @@
 ## Problem Statement
 
 Educational institutions collect large amounts of student data, making manual analysis difficult. This project develops a simple analytics system to evaluate student performance and identify academic trends.
-
+<hr>
 ## Dataset
 
 A synthetic dataset of 250 students was generated using Python.
@@ -20,7 +20,7 @@ A synthetic dataset of 250 students was generated using Python.
 * English
 * Attendance
 * Internal_Marks
-
+<hr>
 ## Objectives
 
 * Generate student data
@@ -30,7 +30,7 @@ A synthetic dataset of 250 students was generated using Python.
 * Identify top and low-performing students
 * Compare results by department, gender, and year
 * Analyze attendance and internal marks impact
-
+<hr>
 ## Workflow
 
 1. **Data Generation** – Created 250 student records.
@@ -48,17 +48,19 @@ A synthetic dataset of 250 students was generated using Python.
 <hr>
 <img width="641" height="463" alt="image" src="https://github.com/user-attachments/assets/22ff51d7-71d2-4cad-bb63-473fb0f37ee5" />
 <hr>
+<img width="647" height="465" alt="image" src="https://github.com/user-attachments/assets/fa1da0bf-54f2-41f4-918e-12a9aeda86ac" />
+<hr>
 ## Key Insights
 
 * Better attendance is linked to higher scores.
 * Internal marks positively influence total marks.
 * Performance differs across departments and academic years.
 * Visualizations make trends easier to understand.
-
+<hr>
 ## Tools Used
 
 Python, Pandas, NumPy, Matplotlib, Seaborn, Faker, Jupyter Notebook
-
+<hr>
 ## Conclusion
 
 This project shows how data analytics can help evaluate student performance, identify trends, and support academic decision-making.
