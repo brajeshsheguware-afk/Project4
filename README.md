@@ -46,6 +46,8 @@ A synthetic dataset of 250 students was generated using Python.
 <hr>
 <img width="660" height="465" alt="image" src="https://github.com/user-attachments/assets/632b7305-8ea3-47bc-8f28-9472b75de65e" />
 <hr>
+<img width="641" height="463" alt="image" src="https://github.com/user-attachments/assets/22ff51d7-71d2-4cad-bb63-473fb0f37ee5" />
+<hr>
 ## Key Insights
 
 * Better attendance is linked to higher scores.
