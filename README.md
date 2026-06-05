@@ -1,6 +1,6 @@
-## Student Performance Analysis System (Synthetic Data)
+Student Performance Analysis System (Synthetic Data)
 
-## Problem Statement
+Problem Statement
 
 Educational institutions collect large amounts of student data, making manual analysis difficult. This project develops a simple analytics system to evaluate student performance and identify academic trends.
 <hr>
@@ -8,7 +8,7 @@ Educational institutions collect large amounts of student data, making manual an
 
 A synthetic dataset of 250 students was generated using Python.
 
-**Columns:**
+Columns:
 
 * Student_ID
 * Name
@@ -21,7 +21,7 @@ A synthetic dataset of 250 students was generated using Python.
 * Attendance
 * Internal_Marks
 <hr>
-## Objectives
+Objectives
 
 * Generate student data
 * Clean and preprocess records
@@ -31,7 +31,7 @@ A synthetic dataset of 250 students was generated using Python.
 * Compare results by department, gender, and year
 * Analyze attendance and internal marks impact
 <hr>
-## Workflow
+Workflow
 
 1. **Data Generation** – Created 250 student records.
 2. **Data Preprocessing** – Checked missing values and duplicates.
@@ -50,17 +50,17 @@ A synthetic dataset of 250 students was generated using Python.
 <hr>
 <img width="647" height="465" alt="image" src="https://github.com/user-attachments/assets/fa1da0bf-54f2-41f4-918e-12a9aeda86ac" />
 <hr>
-## Key Insights
+Key Insights
 
 * Better attendance is linked to higher scores.
 * Internal marks positively influence total marks.
 * Performance differs across departments and academic years.
 * Visualizations make trends easier to understand.
 <hr>
-## Tools Used
+Tools Used
 
 Python, Pandas, NumPy, Matplotlib, Seaborn, Faker, Jupyter Notebook
 <hr>
-## Conclusion
+Conclusion
 
 This project shows how data analytics can help evaluate student performance, identify trends, and support academic decision-making.
